@@ -2,7 +2,7 @@
 title: "Random Network simulations"
 author: "Andi Cupallari"
 date: "1/15/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
