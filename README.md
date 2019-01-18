@@ -4,4 +4,4 @@ I use graph and percolation theory to model a group of market participants and t
 
 Next, I simulate the connectivity of different graph types including random graphs and ER graphs. After a critical value of the number of links added between nodes, a giant component emerges. This can be seen in all types of graphs.
 
-See 
+See percolation.md 
