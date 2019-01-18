@@ -1,4 +1,4 @@
-# graph_percolation_stock_market
+# An application of graph theory and percolation to the stock market. 
 
 I use graph and percolation theory to model a group of market participants and the market breakdown after a critical mass of the participants decide to leave the market. I do not distinguish between buyers or sellers, i.e. I assume the decision of the market participant to buy or cell is not modelled but can be endogenous or exogenous.
 
